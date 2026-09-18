@@ -1,0 +1,12 @@
+Bienvenido a mi repo!
+
+
+git init -> Inicializa git en el proyecto
+
+git remote add origin <enlace_repo>
+
+git remote -v
+
+git status -> Que archivo estan registrados y cuales no
+
+git add intro.txt -> Registrame este archivo para eventualmente enviarlo al repo
