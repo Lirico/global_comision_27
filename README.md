@@ -4,7 +4,7 @@
 
 # Bienvenidos al repositorio de la comisión 27
 
-## Instructivo para descargar el repositorio
+## Instructivo para clonar el repositorio
 
 Antes de comenzar asegurate tener instalado GIT en la computadora. Para revisar escribe en el buscador
 de Windows o del sistema operativo que tengas el programa GIT BASH. Si lo tienes está instalado correctamente.
