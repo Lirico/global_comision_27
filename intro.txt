@@ -10,3 +10,9 @@ git remote -v
 git status -> Que archivo estan registrados y cuales no
 
 git add intro.txt -> Registrame este archivo para eventualmente enviarlo al repo
+
+git add . -> Registra todo lo que este sin registrar
+
+git commit -m "tesis 1"
+
+git log -> Registro de commits creados
